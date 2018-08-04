@@ -1,0 +1,100 @@
+* {
+font-family: TimesNewRoman;
+}
+#navbar-container{
+padding-right: 0px;
+padding-left: 0px;
+box-shadow: 5px 5px 30px;
+}
+
+body {
+background-color: #dbdbdb;
+}
+#main-container{
+padding-right: 0px;
+padding-left: 0px;
+box-shadow: 5px 5px 30px;
+margin-top: 20px;
+}
+#carousel {
+margin-top: 20px
+}
+
+#img-carousel {
+opacity: 0.5;
+}
+
+#carousel-caption {
+padding: 20px;
+border-radius: 10px;
+font-weight: 500;
+color: black;
+opacity: 0.7
+}
+#contact {
+margin-left: 40px;
+padding-top: 20px;
+}
+#contact-image {
+height: 20px;
+width: 20px;
+}
+#contact-label {
+display: inline-block;
+font-style: italic;
+font-size: 14px;
+}
+
+h5{
+text-align: center;
+padding: 20px;
+}
+h4{
+padding: 20px;
+}
+
+#img-ikan{
+padding: 8px;
+cursor: pointer;
+}
+#harga-ikan {
+color: blue;
+font-weight: 900;
+}
+#nama-ikan {
+font-weight: 500;
+}
+
+#contact-socmed {
+margin-bottom: 5px;
+list-style-type: none;
+}
+
+#col-contact {
+padding-top: 20px;
+}
+
+a:hover{
+	color:red;
+}
+
+.marquee{
+	padding:0 20px;
+	width:100%;background:#fff;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow:2px 2px 3px rgba(0,0,0,.05);
+	-o-box-shadow:2px 2px 3px rgba(0,0,0,.05);
+	-ms-box-shadow:2px 2px 3px rgba(0,0,0,.05);
+	box-shadow:2px 2px 3px rgba(0,0,0,.05)
+}
+
+#marquee{
+	padding:10px 0;
+	/*width:100%;*/
+	overflow:hidden;
+	color: #333;
+	font-size: 16px;
+	font-weight: 700;
+}
